@@ -127,6 +127,7 @@ if __name__ == "__main__":
         exit()
 
     try:
+        print("ctrl + c to exit")
         main()
     except KeyboardInterrupt:
         for row in range(9):
