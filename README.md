@@ -9,6 +9,7 @@ this probably works with other launchpad models, but expect the colours to be wa
 optional arguments:
 
 `-fps` the fps to run the gif at
+
 `-m` or `--mode` colour mode, options are 'red', 'green' 'yellow', and 'full', defaults to 'full'
 
 usage:
